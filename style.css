@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Pangolin', cursive;
+}
+
+
+.cabecalho{
+    background-color: #424E61;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.cabecalho-imagem{
+    width: 40%;
+}
+.lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.escola-imagem{
+    width: 35%;
+}
+.carreira{
+    background-image: linear-gradient(#424E61,#4e8fe9);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.secao-escola-div{
+    width: 55%;
+
+}
+.Sobre-a-carreira{
+    padding: 24px 0;
+}
+.imagem-aula{
+    width: 20%;
+
+}
+.Aulas{
+    background-image: linear-gradient(#4e8fe9, #424e61);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.secao-aula-div{
+    width: 70%;
+}
+.como-sao-nossas-aulas{
+    padding: 24px 0;
+}
+.rodapé{
+    background-color: #424E61;
+    text-align: center;
+}
+.imagem-rodape{
+    width: 20%;
+   
+}
